@@ -4,13 +4,13 @@
 
 3. My goal is to become a developer. Every day I devote time to code, master new technologies and consolidate them in practice. Doing well is a priority.
 
-4.
+4. 
 
 VS Code, WebStorm,
 BEM, PUG, React, Git,
 HTML, CSS, JS.
 
-5.
+5. 
 
 HTML CSS
 https://github.com/slight64/layout-01
