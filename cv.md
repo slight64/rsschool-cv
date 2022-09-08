@@ -15,11 +15,11 @@
 ### HTML CSS
 [layout-01](https://github.com/slight64/layout-01)
 
-React
+### React
 [swapi](https://github.com/slight64/swapi)
 [TodoReact](https://github.com/slight64/TodoReact)
 
-JS
+### JS
 [pureJsWeatherApp](https://github.com/slight64/pureJsWeatherApp)
 
 **6.** Without experience
